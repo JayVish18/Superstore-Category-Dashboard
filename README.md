@@ -15,3 +15,5 @@ This interactive dashboard provides deep insights into category-level performanc
 🧰 Tools Used:
 Tableau / Power BI (update according to actual tool)
 Superstore Sample Dataset
+
+Tableau link : https://public.tableau.com/views/Superstore-CategoryDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
